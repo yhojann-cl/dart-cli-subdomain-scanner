@@ -60,9 +60,21 @@ dart run bin/wss.dart \
 
 ## Project compilation
 
-Compilation for Linux:
+Compilation commands:
 
 ```bash
-dart compile exe \
-    --target-os=linux --target-arch=x64 bin/wss.dart -o build/wss;
+dart compile exe --target-os=linux --target-arch=x64 bin/wss.dart -o build/wss-linux-x64;
+dart compile exe --target-os=linux --target-arch=arm64 bin/wss.dart -o build/wss-linux-arm64;
+dart compile exe --target-os=android --target-arch=arm64 bin/wss.dart -o build/wss-android-arm64;
+dart compile exe --target-os=macos --target-arch=x64 bin/wss.dart -o build/wss-macos-x64;
+dart compile exe --target-os=windows --target-arch=x64 bin/wss.dart -o build/wss-windows-x64.exe;
 ```
+
+For more information:
+- https://dart.dev/get-dart
+- https://dart.dev/tools/dart-compile
+
+
+## Binaries
+
+You can download binaries from [releases](https://github.com/yhojann-cl/dart-cli-subdomain-scanner/releases).
