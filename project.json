@@ -1,0 +1,379 @@
+{
+    "zonetransfer.me": {
+        "hostname": "zonetransfer.me",
+        "addresses": [
+            {
+                "host": "zonetransfer.me",
+                "address": "5.196.105.14",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "_acme-challenge.zonetransfer.me": {
+        "hostname": "_acme-challenge.zonetransfer.me",
+        "addresses": []
+    },
+    "_sip._tcp.zonetransfer.me": {
+        "hostname": "_sip._tcp.zonetransfer.me",
+        "addresses": []
+    },
+    "asfdbauthdns.zonetransfer.me": {
+        "hostname": "asfdbauthdns.zonetransfer.me",
+        "addresses": []
+    },
+    "asfdbbox.zonetransfer.me": {
+        "hostname": "asfdbbox.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "asfdbbox.zonetransfer.me",
+                "address": "127.0.0.1",
+                "isLinkLocal": false,
+                "isLoopback": true,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "asfdbvolume.zonetransfer.me": {
+        "hostname": "asfdbvolume.zonetransfer.me",
+        "addresses": []
+    },
+    "canberra-office.zonetransfer.me": {
+        "hostname": "canberra-office.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "canberra-office.zonetransfer.me",
+                "address": "202.14.81.230",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "cmdexec.zonetransfer.me": {
+        "hostname": "cmdexec.zonetransfer.me",
+        "addresses": []
+    },
+    "contact.zonetransfer.me": {
+        "hostname": "contact.zonetransfer.me",
+        "addresses": []
+    },
+    "dc-office.zonetransfer.me": {
+        "hostname": "dc-office.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "dc-office.zonetransfer.me",
+                "address": "143.228.181.132",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "deadbeef.zonetransfer.me": {
+        "hostname": "deadbeef.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "deadbeef.zonetransfer.me",
+                "address": "dead:beaf::",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            }
+        ]
+    },
+    "dr.zonetransfer.me": {
+        "hostname": "dr.zonetransfer.me",
+        "addresses": []
+    },
+    "dzc.zonetransfer.me": {
+        "hostname": "dzc.zonetransfer.me",
+        "addresses": []
+    },
+    "email.zonetransfer.me": {
+        "hostname": "email.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "email.zonetransfer.me",
+                "address": "74.125.206.26",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "hello.zonetransfer.me": {
+        "hostname": "hello.zonetransfer.me",
+        "addresses": []
+    },
+    "home.zonetransfer.me": {
+        "hostname": "home.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "home.zonetransfer.me",
+                "address": "127.0.0.1",
+                "isLinkLocal": false,
+                "isLoopback": true,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "info.zonetransfer.me": {
+        "hostname": "info.zonetransfer.me",
+        "addresses": []
+    },
+    "internal.zonetransfer.me": {
+        "hostname": "internal.zonetransfer.me",
+        "addresses": []
+    },
+    "intns1.zonetransfer.me": {
+        "hostname": "intns1.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "intns1.zonetransfer.me",
+                "address": "81.4.108.41",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "intns2.zonetransfer.me": {
+        "hostname": "intns2.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "intns2.zonetransfer.me",
+                "address": "167.88.42.94",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "office.zonetransfer.me": {
+        "hostname": "office.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "office.zonetransfer.me",
+                "address": "4.23.39.254",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "ipv6actnow.org.zonetransfer.me": {
+        "hostname": "ipv6actnow.org.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "ipv6actnow.org.zonetransfer.me",
+                "address": "2001:67c:2e8:11::c100:1332",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            }
+        ]
+    },
+    "owa.zonetransfer.me": {
+        "hostname": "owa.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "owa.zonetransfer.me",
+                "address": "207.46.197.32",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "robinwood.zonetransfer.me": {
+        "hostname": "robinwood.zonetransfer.me",
+        "addresses": []
+    },
+    "rp.zonetransfer.me": {
+        "hostname": "rp.zonetransfer.me",
+        "addresses": []
+    },
+    "sip.zonetransfer.me": {
+        "hostname": "sip.zonetransfer.me",
+        "addresses": []
+    },
+    "sqli.zonetransfer.me": {
+        "hostname": "sqli.zonetransfer.me",
+        "addresses": []
+    },
+    "sshock.zonetransfer.me": {
+        "hostname": "sshock.zonetransfer.me",
+        "addresses": []
+    },
+    "staging.zonetransfer.me": {
+        "hostname": "staging.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "3.162.221.49",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "3.162.221.24",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "3.162.221.100",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "3.162.221.7",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:f800:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:3200:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:6800:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:9c00:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:1a00:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:2600:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:7600:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            },
+            {
+                "host": "staging.zonetransfer.me",
+                "address": "2600:9000:261b:6e00:7:60:4d00:93a1",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv6"
+            }
+        ]
+    },
+    "alltcpportsopen.firewall.test.zonetransfer.me": {
+        "hostname": "alltcpportsopen.firewall.test.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "alltcpportsopen.firewall.test.zonetransfer.me",
+                "address": "127.0.0.1",
+                "isLinkLocal": false,
+                "isLoopback": true,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "testing.zonetransfer.me": {
+        "hostname": "testing.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "testing.zonetransfer.me",
+                "address": "5.196.105.14",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "vpn.zonetransfer.me": {
+        "hostname": "vpn.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "vpn.zonetransfer.me",
+                "address": "174.36.59.154",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "www.zonetransfer.me": {
+        "hostname": "www.zonetransfer.me",
+        "addresses": [
+            {
+                "host": "www.zonetransfer.me",
+                "address": "5.196.105.14",
+                "isLinkLocal": false,
+                "isLoopback": false,
+                "isMulticast": false,
+                "type": "IPv4"
+            }
+        ]
+    },
+    "xss.zonetransfer.me": {
+        "hostname": "xss.zonetransfer.me",
+        "addresses": []
+    }
+}
