@@ -36,7 +36,6 @@ Usage: wss [options] [methods] [filters] <hostname>
                  (defaults to "tcp://8.8.8.8:53")
 -o, --out        Save the progress on a json file. By default it generates
                  a random temporary file.
-                 (defaults to "/tmp/tmp_1751856214640961_dobthk.json")
     --brute      [method] Find using brute-force mode using n characters.
     --axfr       [method] Find using a DNS zone transfer query.
     --address    [filter] Resolve the IP address for each subdomain.
@@ -63,11 +62,20 @@ dart run bin/wss.dart \
 Compilation commands:
 
 ```bash
-dart compile exe --target-os=linux --target-arch=x64 bin/wss.dart -o build/wss-linux-x64;
-dart compile exe --target-os=linux --target-arch=arm64 bin/wss.dart -o build/wss-linux-arm64;
-dart compile exe --target-os=android --target-arch=arm64 bin/wss.dart -o build/wss-android-arm64;
-dart compile exe --target-os=macos --target-arch=x64 bin/wss.dart -o build/wss-macos-x64;
-dart compile exe --target-os=windows --target-arch=x64 bin/wss.dart -o build/wss-windows-x64.exe;
+dart compile exe --target-os=linux --target-arch=x64 \
+    bin/wss.dart -o build/wss-linux-x64;
+
+dart compile exe --target-os=linux --target-arch=arm64 \
+    bin/wss.dart -o build/wss-linux-arm64;
+
+dart compile exe --target-os=android --target-arch=arm64 \
+    bin/wss.dart -o build/wss-android-arm64;
+
+dart compile exe --target-os=macos --target-arch=x64 \
+    bin/wss.dart -o build/wss-macos-x64;
+
+dart compile exe --target-os=windows --target-arch=x64 \
+    bin/wss.dart -o build/wss-windows-x64.exe;
 ```
 
 For more information:
